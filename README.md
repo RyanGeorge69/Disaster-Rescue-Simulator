@@ -1,6 +1,9 @@
 Disaster Rescue Simulator 🚨
 A web-based, 3D interactive educational simulator built with A-Frame (WebXR) and vanilla JavaScript. Players navigate through three high-stakes emergency scenarios—an Earthquake, a Flood, and a Building Fire—to practice search-and-rescue protocols, gather emergency equipment, navigate environmental hazards, and make critical real-life safety decisions.
 
+Deployment
+https://ryangeorge69.github.io/Disaster-Rescue-Simulator/
+
 Features
 •	3 Immersive Stages:
       •	Earthquake Rescue: Navigate collapsed structures, falling rubble, and electrical hazards.
